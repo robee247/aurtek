@@ -1,4 +1,4 @@
-package com.example.aurkuning
+git remote add origin https://github.com/robee247/android-4.0-AurKuning.gitpackage com.example.aurkuning
 
 import android.os.Bundle
 import com.google.android.material.floatingactionbutton.FloatingActionButton
